@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1585078155 source:c:\users\milos\desktop\252838.m.r\lab_7\2nd_semester\lab_1\circle.cpp
+	"Circle.h"
+	<iostream>
+	<string>
+
+1585078065 c:\users\milos\desktop\252838.m.r\lab_7\2nd_semester\lab_1\circle.h
+	<string>
+
+1585079872 source:c:\users\milos\desktop\252838.m.r\lab_7\2nd_semester\lab_1\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Circle.h"
+
+1585079976 source:c:\users\milos\documents\github\laboratory-1-classes\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Circle.h"
+
+1585078065 c:\users\milos\documents\github\laboratory-1-classes\circle.h
+	<string>
+
